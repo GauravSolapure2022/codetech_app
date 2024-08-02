@@ -27,11 +27,6 @@
             </plugin>
         </plugins>
     </pluginManagement>
-	<parent>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-parent</artifactId>
-    <version>1.2.7.RELEASE</version>
- </parent>
 	  <repositories>
     <repository>
         <id>spring-releases</id>
